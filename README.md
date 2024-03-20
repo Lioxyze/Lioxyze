@@ -4,7 +4,7 @@
 
 🚀 Expérience professionnelle : Développeur en formation !!
 
-🎓 Formation : En formation Simplon. Certification en développement web complet.
+🎓 Formation : En formation Simplon. Certification en développement web .
 
 🛠️ Langues et outils : 
 ![png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail-removebg-preview](https://github.com/Lioxyze/.github/assets/160881557/638dfb6b-5524-4d96-9753-b7c0908fdb15)
@@ -13,7 +13,7 @@
 ![919826-removebg-preview-removebg-preview (1)](https://github.com/Lioxyze/.github/assets/160881557/97bdcf98-9328-49be-9f85-eb0a84ade3a9)
 
 
-📧 Vous pouvez me contacter par discord à lioxyze .
+📧 Vous pouvez me contacter sur discord : lioxyze 
 
 
 <!---
