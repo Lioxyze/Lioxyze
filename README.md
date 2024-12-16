@@ -2,7 +2,7 @@
 
 💻 Compétences : HTML, CSS, JavaScript, Git, Unity, Next.js, NestJS, React
 
-🚀 Expérience professionnelle : Développeur en formation !
+🚀 Expérience professionnelle : Disponible pour une alternance en Développement d’Applications du 10 mars 2025 au 25 septembre 2026.
 
 🎓 Formation : En formation Simplon. Certification en développement web.
 
