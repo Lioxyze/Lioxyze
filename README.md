@@ -8,7 +8,6 @@ Bonjour, je suis **Lioxyze**, un développeur web passionné par la création et
 
 - **Langages & Outils :** HTML, CSS, JavaScript, TypeScript, Git, Unity
 - **Frameworks & Librairies :** Next.js, NestJS, React, Tailwind CSS
-- **3D & Graphisme :** Three.js, react-three-fiber
 
 ---
 
