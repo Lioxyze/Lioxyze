@@ -8,21 +8,12 @@ Bonjour, je suis **Lioxyze**, un développeur web passionné par la création et
 
 - **Langages & Outils :** HTML, CSS, JavaScript, TypeScript, Git, Unity
 - **Frameworks & Librairies :** Next.js, NestJS, React, Tailwind CSS
-
----
-
-### 🚀 Expérience professionnelle
-
-🎯 **À la recherche d’une alternance**  
-📅 Du **10 mars 2025** au **25 septembre 2026**  
-📌 En tant que **Développeur d’Applications** (front-end / fullstack)
-
+- 
 ---
 
 ### 🎓 Formation
 
 - 👨‍🎓 En cours de formation chez **Simplon**
-- 📜 Certification en **Développement Web**
 
 ---
 
