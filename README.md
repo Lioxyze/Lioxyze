@@ -1,4 +1,4 @@
-## 👋 Salut !
+## Salut !
 
 Je m'appelle **Lioxyze**, je suis un **développeur web** passionné par la création d’expériences numériques modernes et interactives.  
 J’aime concevoir des interfaces claires, dynamiques et accessibles, en mêlant design, performance et innovation.
@@ -13,14 +13,14 @@ J’aime concevoir des interfaces claires, dynamiques et accessibles, en mêlant
 
 ---
 
-### 🎓 Parcours
+###  Parcours
 
-🎓 Actuellement en formation chez **Simplon**, dans le cadre du titre professionnel **Concepteur Développeur d’Applications (CDA)**.  
+ Actuellement en formation chez **Simplon**, dans le cadre du titre professionnel **Concepteur Développeur d’Applications (CDA)**.  
 J’y renforce mes compétences full-stack à travers divers projets concrets mêlant front-end, back-end et gestion de base de données.
 
 ---
 
-### ⚙️ Environnement & outils
+###  Environnement & outils
 
 <p align="left">
   <!-- Langages -->
@@ -44,7 +44,7 @@ J’y renforce mes compétences full-stack à travers divers projets concrets m�
 
 ---
 
-### 🚀 Ce que j’aime faire
+###  Ce que j’aime faire
 
 - Travailler sur des projets web modernes (Next.js / NestJS)  
 - Expérimenter avec la 3D et les environnements interactifs  
@@ -53,7 +53,7 @@ J’y renforce mes compétences full-stack à travers divers projets concrets m�
 
 ---
 
-### 📫 Me contacter
+###  Me contacter
 
-- 💬 **Discord :** `lioxyze`  
-- 🌐 **Portfolio en cours de développement**
+-  **Discord :** `lioxyze`  
+-  **Portfolio en cours de développement**
